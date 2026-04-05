@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>CreateGroupServlet</servlet-name>
+    <servlet-class>com.app.CreateGroupServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>CreateGroupServlet</servlet-name>
+    <url-pattern>/CreateGroupServlet</url-pattern>
+</servlet-mapping>
